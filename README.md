@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ga-couto
-- 👀 I’m interested in ...Um emprego 
+- 👀 I’m interested in ...Programar 
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...  13996135122
